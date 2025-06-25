@@ -23,8 +23,3 @@ This plugin configures WordPress to route all emails sent via `wp_mail()` to a l
 2. Upload this plugin to your `wp-content/plugins` directory
 3. Activate the plugin via WordPress Admin → Plugins
 4. Open `http://localhost:8025` to view emails in the MailHog inbox
-
-== Changelog ==
-
-= 1.0.0 =
-* Initial release
