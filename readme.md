@@ -1,9 +1,10 @@
 === MailHog SMTP for WAMP ===
-Requires at least: 6.0
-Tested up to: 6.6
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Requires at least: 6.0   
+Tested up to: 6.6   
+Stable tag: 1.0.0   
+License: GPLv2 or later   
+License URI: https://www.gnu.org/licenses/gpl-2.0.html 
 
 Redirects all outgoing WordPress emails to MailHog for safe local testing. Perfect for developers using WAMP.
 
@@ -22,8 +23,3 @@ This plugin configures WordPress to route all emails sent via `wp_mail()` to a l
 2. Upload this plugin to your `wp-content/plugins` directory
 3. Activate the plugin via WordPress Admin → Plugins
 4. Open `http://localhost:8025` to view emails in the MailHog inbox
-
-== Changelog ==
-
-= 1.0.0 =
-* Initial release
